@@ -5,7 +5,7 @@ Configures home directory and installs rpms required for building rpms
 
 Example Use:
 
-node workstation {
+	node workstation {
 
 		#omitting yum_install_devgroups or setting it to other than true
 		#will skip install of group Development Tools"
